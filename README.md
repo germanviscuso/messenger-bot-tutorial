@@ -1,6 +1,6 @@
 # 🤖 Creating your own Facebook Messenger bot
 
-![Alt text](/../6e611374891791a5dfc15ed070c0cd1d3de636b5/Demo.gif)
+![Alt text](/../6e611374891791a5dfc15ed070c0cd1d3de636b5/demo/Demo.gif)
 
 Facebook recently opened up their Messenger platform to enable bots to converse with users through Facebook Apps and on Facebook Pages. 
 
